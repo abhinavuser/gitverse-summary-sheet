@@ -1,21 +1,9 @@
 # Git and Git Flow Cheat Sheet 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-<p align="center">
-    <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
-</p>
-
 ---
 
 ## 📖 About
 
 This comprehensive Git cheat sheet helps you master Git commands without memorizing everything. Whether you're a beginner or an experienced developer, this guide provides quick reference to essential Git operations.
-
-**Contributions Welcome!** Feel free to:
-- Fix grammar mistakes
-- Add new commands
-- Translate to your language
-- Improve explanations
 
 ---
 ## 📋 Table of Contents
@@ -800,67 +788,4 @@ git flow hotfix finish VERSION
 
 ---
 
-### 📊 Commands Overview
-
-<p align="center">
-    <img alt="Git Flow Commands" src="./Img/git-flow-commands.png" height="270" width="460">
-</p>
-
-### 🌊 Git Flow Schema
-
-<p align="center">
-    <img alt="Git Flow Schema" src="Img/git-flow-commands-without-flow.png">
-</p>
-
----
-
-
-## 🌍 Other Languages
-
-This cheat sheet is available in multiple languages:
-
-| Language | Link |
-|----------|------|
-| 🇸🇦 Arabic | [git-cheat-sheet-ar.md](./other-sheets/git-cheat-sheet-ar.md) |
-| 🇧🇩 Bengali | [git-cheat-sheet-bn.md](./other-sheets/git-cheat-sheet-bn.md) |
-| 🇧🇷 Brazilian Portuguese | [git-cheat-sheet-pt_BR.md](./other-sheets/git-cheat-sheet-pt_BR.md) |
-| 🇨🇳 Chinese | [git-cheat-sheet-zh.md](./other-sheets/git-cheat-sheet-zh.md) |
-| 🇩🇪 German | [git-cheat-sheet-de.md](./other-sheets/git-cheat-sheet-de.md) |
-| 🇬🇷 Greek | [git-cheat-sheet-el.md](./other-sheets/git-cheat-sheet-el.md) |
-| 🇮🇳 Hindi | [git-cheat-sheet-hi.md](./other-sheets/git-cheat-sheet-hi.md) |
-| 🇰🇷 Korean | [git-cheat-sheet-ko.md](./other-sheets/git-cheat-sheet-ko.md) |
-| 🇵🇱 Polish | [git-cheat-sheet-pl.md](./other-sheets/git-cheat-sheet-pl.md) |
-| 🇪🇸 Spanish | [git-cheat-sheet-es.md](./other-sheets/git-cheat-sheet-es.md) |
-| 🇹🇷 Turkish | [git-cheat-sheet-tr.md](./other-sheets/git-cheat-sheet-tr.md) |
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! You can:
-
-- 🐛 Report bugs or typos
-- ✨ Add new Git commands
-- 🌍 Translate to new languages
-- 💡 Improve explanations
-- 📝 Enhance formatting
-
-**How to contribute:**
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-    <b>⭐ Star this repository if you found it helpful!</b>
-</p>
 
